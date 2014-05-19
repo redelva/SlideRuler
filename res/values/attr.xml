@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   	<declare-styleable name="SliderRuler">
+       	<attr name="big_unit" format="reference"></attr>
+       	<attr name="small_unit" format="reference"></attr>
+       	<attr name="mask" format="reference"></attr>
+       	<attr name="between_count" format="integer"></attr>
+		<attr name="total_count" format="integer"></attr>		
+		<attr name="unit_image_width" format="reference"></attr>
+		<attr name="background" format="reference"></attr>
+		<attr name="text_size" format="integer"></attr>
+		<attr name="default_value" format="integer"></attr>
+	</declare-styleable>
+</resources>
